@@ -1,0 +1,7 @@
+name "sven-docs-to-json"
+description "A minimal D application."
+copyright "Copyright © 2016, Steven"
+authors "Steven"
+
+dependency "keyvalues" version="~>1.0.2"
+dependency "vibe-d:data" version="~>0.7.28"
